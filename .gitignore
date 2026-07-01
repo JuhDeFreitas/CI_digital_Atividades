@@ -1,0 +1,10 @@
+# ModelSim/Questa simulation artifacts
+work/
+vsim.wlf
+wlft*
+*.vcd
+transcript
+
+# ModelSim project files
+*.mpf
+*.cr.mti
